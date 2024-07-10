@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **IoT**
 
-- 📫 How to reach me **Akezhan.kumarov@gmail.com**
+- 📫 How to reach me tg:**@berigooo**
 
 - ⚡ Fun fact **Life is good thing**
 
