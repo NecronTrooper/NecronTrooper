@@ -1,8 +1,8 @@
-<h3 align="center">Third grade student from SDU University</h3>
+<h3 align="center">Forth grade student from SDU University</h3>
 
 - 🔭 I’m currently working on [VDK.UKG Telegram bot](https://github.com/NecronTrooper/temperatureNotificationBot)
 
-- 🌱 I’m currently learning **GoLand and basics of frontend**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available here [https://github.com/NecronTrooper](https://github.com/NecronTrooper)
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me tg:**@berigooo**
 
-- ⚡ Fun fact **Life is good thing**
+- ⚡ Fun fact **Life is good thing,usually**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
