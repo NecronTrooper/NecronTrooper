@@ -1,16 +1,16 @@
 <h3 align="center">Forth grade student from SDU University</h3>
 
-- 🔭 I’m currently working on [VDK.UKG Telegram bot](https://github.com/NecronTrooper/temperatureNotificationBot)
+- I’m currently working on nothing)
+ 
+- I’m currently learning **.NET core**
 
-- 🌱 I’m currently learning **Python**
+- All of my projects are available here [https://github.com/NecronTrooper](https://github.com/NecronTrooper)
 
-- 👨‍💻 All of my projects are available here [https://github.com/NecronTrooper](https://github.com/NecronTrooper)
+- Ask me about **IoT**
 
-- 💬 Ask me about **IoT**
+- How to reach me tg:**idk**
 
-- 📫 How to reach me tg:**@berigooo**
-
-- ⚡ Fun fact **Life is good thing,usually**
+- Fun fact **Earth is the biggest graveyard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
