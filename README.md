@@ -1,6 +1,6 @@
-<h3 align="center">Forth grade student from SDU University</h3>
+<h3 align="center">Master's degree student at Astana IT University</h3>
 
-- I’m currently working on nothing)
+- I’m currently working on finding a job =(
  
 - I’m currently learning **.NET core**
 
