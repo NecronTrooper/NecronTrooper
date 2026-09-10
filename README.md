@@ -1,19 +1,19 @@
 <h3 align="center">Master's degree student at Astana IT University</h3>
 
-- I’m currently working on finding a job =(
+- I’m currently working on 
  
 - I’m currently learning **.NET core**
 
-- All of my projects are available here [https://github.com/NecronTrooper](https://github.com/NecronTrooper)
+- All of my projects are available here, on repos
 
-- Ask me about **IoT**
+- Ask me about **gym and knitting**
 
-- How to reach me tg:**idk**
+- How to reach me : Currently living in Astana, Kazakhstan (Open to work btw)
 
 - Fun fact **Earth is the biggest graveyard**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">TG: @Kab04ok
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
