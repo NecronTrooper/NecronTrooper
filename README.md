@@ -1,6 +1,6 @@
 <h3 align="center">Master's degree student at Astana IT University</h3>
 
-- I’m currently working on 
+- I’m currently working on Recomendation system for agriculture
  
 - I’m currently learning **.NET core**
 
